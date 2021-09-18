@@ -5,20 +5,39 @@ Vue Application by making a Animate db using Vue JS. A beginner vue project usin
 
 
 
+### Installation
 
-> js
-
-## Build Setup
+#### Clone repo
 
 ``` bash
-# install dependencies
-npm install
+# clone the repo
+$ git clone https://github.com/yavuz-bektas/animate.git
 
+# go into app's directory
+$ cd animatedb
+
+# install app's dependencies
+$ npm install
+```
+
+#### Usage
+
+``` bash
 # serve with hot reload at localhost:8080
-npm run dev
+npm run serve
 
 # build for production with minification
 npm run build
+
+# run linter
+npm run lint
+
+# run unit tests
+npm run test:unit
+
+# run e2e tests
+npm run test:e2e
+
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work, check out the [Vue CLI Guide](https://cli.vuejs.org/guide/).

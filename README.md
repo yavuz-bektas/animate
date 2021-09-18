@@ -1,4 +1,7 @@
-# animate
+# the-animate-db
+Vue Application by making a Animate db using Vue JS. A beginner vue project using the options api
+
+
 
 > js
 

@@ -1,7 +1,7 @@
 # the-animate-db
 Vue Application by making a Animate db using Vue JS. A beginner vue project using the options api
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-2bd32bee34d2.gif)
+![Alt Text](https://gifyu.com/image/Px55)
 
 
 

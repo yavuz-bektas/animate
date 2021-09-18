@@ -41,3 +41,8 @@ npm run test:e2e
 ```
 
 For a detailed explanation on how things work, check out the [Vue CLI Guide](https://cli.vuejs.org/guide/).
+
+
+### Bugs and feature requests
+
+Have a bug or a feature request? [Please open a new issue](https://github.com/yavuz-bektas/animate/issues).
